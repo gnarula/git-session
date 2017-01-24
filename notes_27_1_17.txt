@@ -1,0 +1,8 @@
+git clone
+	Clones a repo from github onto your local system
+git status
+	To view the untracked files and folders in the repository
+git reset HEAD~1
+	Moves repo back to the previous commit made
+
+Files ending with ~ are made by the text editor and will generally cease to exist as soon as the editor is closed
