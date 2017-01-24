@@ -9,3 +9,12 @@ git-remote -v
 
 
 Files ending with ~ are made by the text editor and will generally cease to exist as soon as the editor is closed
+
+This is a trial for rebasing.
+git rebase -i
+	i is for interactive rebasing
+	rebasing-squashing is merging two commits into one commit
+	
+The commit log can be visualized as a linked list of commits
+The latest git commit is called the HEAD
+The second last commit is HEAD~1
