@@ -18,4 +18,3 @@ git rebase -i
 The commit log can be visualized as a linked list of commits
 The latest git commit is called the HEAD
 The second last commit is HEAD~1
-Another trial
